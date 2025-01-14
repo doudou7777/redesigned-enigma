@@ -7,10 +7,10 @@ This project contains two main scripts for processing NODDI (Neurite Orientation
 
 ## Software Versions
 
-- **MATLAB**: Version recommended: R2020b or later
-- **FSL**: Version recommended: FSL 6.0 or later
-- **MRtrix3**: Version recommended: MRtrix3 3.0 or later
-- **ANTs**: Version recommended: ANTs 2.3 or later
+- **MATLAB**: Version recommended: R2020b
+- **FSL**: Version recommended: FSL 6.0
+- **MRtrix3**: Version recommended: MRtrix3 3.0
+- **ANTs**: Version recommended: ANTs 2.3
 
 ## File Descriptions
 
